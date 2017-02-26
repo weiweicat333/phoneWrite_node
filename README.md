@@ -18,3 +18,8 @@
 3. 运行`make`
 4. 修改文件`Linux/judge/Debug/index.py`，在`return judge`上一行添加` judge = 'test(' + '0' + ')'`语句，用来做**jsonp**请求用
 5. 输入`python index.py`
+
+> 汉字写入
+
+1. 首先点击汉字库按钮，输入要写入的汉字，比如'**人**'
+2. 在写字板上写入汉字。
